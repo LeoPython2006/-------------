@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header{
+    display: flex;
+    background-color: green;
+}
+
+a{
+    color:lemonchiffon;
+}
+
+a:visited{
+    color:orange;
+}
+
+.img-logo{
+    width: 30%;
+}
+
+.text-logo{
+    width: 70%;
+    color:lemonchiffon;
+}
+
+footer{
+    background-color: green;
+    display: flex;
+}
+
+.contacts{
+    width: 70%;
+    color:lemonchiffon;
+}
+
+.trash{
+    height: 100px
+}
+
+.content{
+    display: flex;
+    background-color: lemonchiffon;
+    justify-content: space-between;
+}
+
+.content-item{
+    background-color:darkseagreen;
+    width: 30%;
+    margin: 10px;
+}
+
+.img-item{
+    width: 96%;
+    margin: 2%;
+}
+
+.text-item{
+    margin: 2%;
+    /* color: forestgreen; */
+}
